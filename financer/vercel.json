@@ -1,0 +1,6 @@
+{
+  "rootDirectory": "financer",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "ignoreCommand": "exit 1"
+}
