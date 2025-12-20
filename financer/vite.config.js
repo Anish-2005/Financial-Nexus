@@ -7,9 +7,4 @@ export default defineConfig({
   optimizeDeps: {
     include: ['react-chartjs-2', 'chart.js'],
   },
-  build: {
-    rollupOptions: {
-      external: ['react-chartjs-2', 'chart.js'],
-    },
-  },
 });
